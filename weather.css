@@ -1,0 +1,9 @@
+.weather {
+     width: 200px;
+    height: 120px;
+    background-color: lime;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    font-weight: 700;
+}

@@ -1,0 +1,18 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.clock h3 {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.clock {
+    width: 550px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+}
